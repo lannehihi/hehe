@@ -1,17 +1,18 @@
 const CONFIG = {
-    introTitle: 'Sinh à!',
-    introDesc: `Mặc dù lớn tuổi hơn em và chị cũng là con gái
-    Nên chị bình thường cũng ngại nói mấy chuyện này`,
-    btnIntro: 'Chuyện gì vậy chị',
-    title: 'Chị hỏi em điều này nha 😙',
-    desc: 'Chị nghe em bảo em anti chị, có thật không á?? ',
-    btnYes: 'Trêu chị thôi chớ em thích chị lâu rồi mà em ngại nói á <3',
-    btnNo: 'Dạ, Em vẫn mãi anti chị',
-    question:'Sao mà em không anti chị Lan dọ <3',
-    btnReply: 'Trả lời thật lòng nhé <3',
-    reply: 'Tại chị Lan siêu cấp đáng yêu á hihi <333',
-    mess: 'Chị biết mà. Cảm ơn em nhiều nha 😘😘',
-    messDesc: 'Mai mốt gặp nhau nhớ để chị đập 1 trận nha.',
-    btnAccept: 'Oke chị lun <3',
+    introTitle: 'Mọi người ơi!',
+    introDesc: `Tui ngại nói quá
+    Nhưng mà có chuyện này
+    Tui muốn nói với mọi người á`,
+    btnIntro: 'Chuyện gì vậy nè',
+    title: 'Không biết là mọi người có thể...😙',
+    desc: 'Bắn momo 1k cho tui chớ mùa dịch tui đói quá huhu',
+    btnYes: 'Oke, gửi sdt momo đây rồi bắn cho nè <3',
+    btnNo: 'Không, tui cũng nghèo :((',
+    question:'Mà sao bắn momo cho tui vậy?',
+    btnReply: 'Gửi cho tui <3',
+    reply: 'Tại Lan đáng yêu, tui thích Lan lắm á <33333333',
+    mess: 'Đừng nói vậy chớ tui ngại lắm nhưng mà cứ nói vậy đi nha hihi :D :D',
+    messDesc: 'Giỡn thôi, chỉ muốn nói là mọi người nhớ giữ gìn sức khỏe trong mùa dịch này nha. Sau dịch gặp lại nè <3333.',
+    btnAccept: 'Oke nha <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
