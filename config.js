@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Mọi người ơi!',
+    introDesc: `Tui ngại nói quá
+    Nhưng mà có chuyện này
+    Tui muốn nói với mọi người á`,
+    btnIntro: 'Chuyện gì vậy nè',
+    title: 'Không biết là mọi người có thể... 😙',
+    desc: 'Bắn momo 1k cho tui chớ mùa dịch tui đói quá huhu',
+    btnYes: 'Oke, gửi sdt momo đây rồi bắn cho nè <3',
+    btnNo: 'Không, tui cũng nghèo :(( ',
+    question:'Mà sao bắn momo cho tui vậy?',
+    btnReply: 'Gửi cho tui <3',
+    reply: 'Tại Lan đáng yêu, tui thích Lan lắm á <33333333',
+    mess: 'Đừng nói vậy chớ tui ngại lắm nhưng mà cứ nói vậy đi nha hihi :D :D',
+    messDesc: 'Giỡn thôi, chỉ muốn nói là mọi người nhớ giữ gìn sức khỏe trong mùa dịch này nha. Sau dịch gặp lại nè <3333.',
+    btnAccept: 'Oke nha <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
