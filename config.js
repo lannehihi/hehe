@@ -1,18 +1,18 @@
 const CONFIG = {
-    introTitle: 'Mọi người ơi!',
-    introDesc: `Tui ngại nói quá
+    introTitle: 'Babi ơi!',
+    introDesc: `Em ngại nói quá
     Nhưng mà có chuyện này
-    Tui muốn nói với mọi người á`,
+    Em muốn nói với babi á`,
     btnIntro: 'Chuyện gì vậy nè',
-    title: 'Không biết là mọi người có thể...😙',
-    desc: 'Bắn momo 1k cho tui chớ mùa dịch tui đói quá huhu',
-    btnYes: 'Oke, gửi sdt momo đây rồi bắn cho nè <3',
-    btnNo: 'Không, tui cũng nghèo :((',
-    question:'Mà sao bắn momo cho tui vậy?',
-    btnReply: 'Gửi cho tui <3',
-    reply: 'Tại Lan đáng yêu, tui thích Lan lắm á <33333333',
-    mess: 'Đừng nói vậy chớ tui ngại lắm nhưng mà cứ nói vậy đi nha hihi :D :D',
-    messDesc: 'Giỡn thôi, chỉ muốn nói là mọi người nhớ giữ gìn sức khỏe trong mùa dịch này nha. Sau dịch gặp lại nè <3333.',
-    btnAccept: 'Oke nha <3',
+    title: 'Không biết là babi có thể...😙',
+    desc: 'Bắn momo 10k cho em để em săn sales trà sữa chứ em nghèo quá huhu',
+    btnYes: 'Oke, 5s anh bắn liền cho nè <3',
+    btnNo: 'Không, anh mua xe hết tiền rồi :((',
+    question:'Sao anh hết tiền rồi mà vẫn gửi tiền cho em?',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Tại anh yêu em thayme luôn <33333333',
+    mess: 'Vậy lần sau cứ bắn tiền cho em nhiều nhiều nha hihi :D :D',
+    messDesc: 'Giỡn thôi, đừng có bắn nha bạn, tui iu bạn gất nhìu <3333.',
+    btnAccept: 'Oke :)',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
